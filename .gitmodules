@@ -1,0 +1,3 @@
+[submodule "deployment_2"]
+	path = deployment_2
+	url = https://github.com/daniel-satria/churn_prediction.git
